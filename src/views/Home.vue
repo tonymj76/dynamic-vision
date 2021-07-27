@@ -49,7 +49,7 @@ export default {
   color: #f3f2f1;
 }
 .text-color {
-  color: #456AA5 !important ;
+  color: #456aa5 !important ;
   font-weight: bold;
 }
 </style>
