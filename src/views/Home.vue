@@ -9,7 +9,7 @@
         >
           <v-row align="end" class="fill-height">
             <v-col align-self="center" class="px-12">
-              <p class="text-h4 text-md-h3 text-lg-h2 white--text">
+              <p class="text-h4 text-md-h3 text-lg-h2 white--text mt-12">
                 WUYE Computer Literacy
               </p>
               <p class="text-h4 text-md-h3 text-lg-h2 white--text">
