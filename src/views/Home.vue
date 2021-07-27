@@ -8,8 +8,8 @@
           gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.7)"
         >
           <v-row align="end" class="fill-height">
-            <v-col align-self="center" class="px-12">
-              <p class="text-h4 text-md-h3 text-lg-h2 white--text mt-12">
+            <v-col align-self="center" class="px-12 mt-16 pt-10">
+              <p class="text-h4 text-md-h3 text-lg-h2 white--text">
                 WUYE Computer Literacy
               </p>
               <p class="text-h4 text-md-h3 text-lg-h2 white--text">
