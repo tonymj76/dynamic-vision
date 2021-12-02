@@ -16,7 +16,7 @@
                   font-weight-medium
                 "
               >
-                WUYE Computer Literacy
+                Dynamic Vision Computer
               </p>
               <p
                 class="
@@ -25,7 +25,7 @@
                   font-weight-medium
                 "
               >
-                Programme (WCLP 2021)
+                Project LTD (DVCP)
               </p>
               <p class="subtitle text-md-h5 mt-4 font-weight-medium">
                 Become a computer literate today by enrolling in the “Computer
@@ -90,6 +90,26 @@
             <div>
               <p class="text-center service-body font-weight-black">
                 Publication
+              </p>
+            </div>
+          </div>
+
+          <div>
+            <div>
+              <img src="../assets/svg/consultancy.svg" alt="Training" />
+            </div>
+            <div>
+              <p class="text-center service-body font-weight-black">Training</p>
+            </div>
+          </div>
+
+          <div>
+            <div>
+              <img src="../assets/svg/publication.svg" alt="Partnership" />
+            </div>
+            <div>
+              <p class="text-center service-body font-weight-black">
+                Partnership
               </p>
             </div>
           </div>
