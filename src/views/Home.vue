@@ -233,6 +233,7 @@ export default {
 .services-item {
   display: flex;
   width: 70%;
+  flex-flow: row wrap;
   padding-top: 60px;
   margin: 0 auto;
   justify-content: space-between;
